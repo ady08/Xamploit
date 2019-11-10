@@ -12,9 +12,9 @@ function index(){
     print "$cyan   ▀       █    ▀  $red   ▀$white     Ver.0.3\n";
     print "$cyan          ▀        $white \n\n";
     print "$cyan  Author    : Nicoleus Sitorus$red \n\";
-    print "$cyan  Facebook  : Nicoleus Sitorus$white \n\";
+    print "$cyan  Facebook  : Nicoleus Sitorus$white \n\n";
     print "$cyan  Instagram : @nicoleus_sitorus$red \n\";
-    print "$cyan  Youtube   : ady sitorus ady$white \n\";
+    print "$cyan  Youtube   : ady sitorus ady$white \n\n";
 }
 
 function dirbrute(){
