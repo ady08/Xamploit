@@ -11,8 +11,6 @@ function index(){
     print "$cyan  █   ▀▄    █    █ $red  █        ▀       ▐   ▀ \n";
     print "$cyan   ▀       █    ▀  $red   ▀$white     Ver.0.3\n";
     print "$cyan          ▀        $white \n\n";
-    print "$cyan  Author    : Nicoleus Sitorus$red \n\";
-    print "$cyan  Youtube   : ady sitorus ady$white \n\n";
 }
 
 function dirbrute(){
